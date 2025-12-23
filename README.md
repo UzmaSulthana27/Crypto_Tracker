@@ -90,4 +90,19 @@ cd backend
 npm install
 node server.js
 
+### 🎨 Design Decisions
+
+- WebSocket was chosen over polling to efficiently handle real-time price updates with low latency and reduced network overhead
+- Mock data is used to simulate a live trading environment without relying on external APIs
+- The UI follows a clarity-first approach, prioritizing readability over heavy visuals or complex charts
+- Responsive design ensures the application works smoothly across mobile, tablet, and desktop screen sizes
+
+
+### 🚧 Future Improvements
+
+- Integration with real cryptocurrency exchange APIs for live market data
+- Sorting and filtering options to improve data exploration
+- Historical price charts for better market analysis
+- User authentication for personalized dashboards
+- Dark / light theme toggle to improve accessibility and user experience
 
