@@ -4,6 +4,8 @@ Crypto Tracker is a frontend-focused web application that displays **real-time c
 The project demonstrates real-time data handling, clean UI design, and structured frontend architecture.
 
 ---
+## 🚀 Live Demo
+🔗 https://crypto-tracker-trading.vercel.app/
 
 ## 🧠 Project Explanation 
 
