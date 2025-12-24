@@ -7,6 +7,8 @@ The project demonstrates real-time data handling, clean UI design, and structure
 ## 🚀 Live Demo
 🔗 https://crypto-tracker-trading.vercel.app/
 
+🔗 https://drive.google.com/file/d/1buD6Db8HUX3uGA2-_Jwp2QvCI8T-qR8G/view?usp=sharing
+
 ## 🧠 Project Explanation 
 
 This project was built as a **frontend assignment** to showcase the ability to:
